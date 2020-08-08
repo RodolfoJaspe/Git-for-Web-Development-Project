@@ -33,11 +33,18 @@ The completion of these questions is mandatory for MVP. However, passing the qui
 ## Task 3: Stretch
 Stretch Review questions: 
     1. What is the difference between an inline element and a block element?
+        - Inline elements only take up as much space as they need on the page while block elements take up the whole row.    
     2. What happens when an element is positioned absolutely? 
+        - It is positioned according to its parent 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+       
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+       - block: div, section, p
+       - inline: a, span, button
+
     5. In your own words, explain the box model. What is the fix for the box model? 
 Stretch Git Tasks
+       - The outer most space is the margin, next is the border, then the padding, and finally the content.
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
   - [ ] Research and understand what a `merge conflict` is and how to resolve it.
   - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
